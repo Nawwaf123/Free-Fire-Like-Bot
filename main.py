@@ -29,7 +29,7 @@ if not BOT_TOKEN:
     sys.exit(1)
 
 REQUIRED_CHANNELS = ["liketuturial001"]
-GROUP_JOIN_LINK = "https://t.me/liketuturial001"
+GROUP_JOIN_LINK = "https://t.me/liketuturialgrup"
 OWNER_ID = 7567812252
 OWNER_USERNAME = "@waffy"
 
